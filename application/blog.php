@@ -1,5 +1,4 @@
-<?php include 'Database.php';?>
-<?php
+<?php include '../database/Database.php';
 
 $p = $db->posts;
 

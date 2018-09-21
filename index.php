@@ -1,5 +1,5 @@
 
-<?php include 'Database.php';
+<?php include 'database/Database.php';
 
 
 echo "<pre>";
